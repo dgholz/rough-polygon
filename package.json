@@ -1,0 +1,19 @@
+{
+  "name": "@dgholz/rough-polygon",
+  "version": "1.0.0",
+  "description": "Generate polygons that roughly follow other polygons",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dgholz/rough-polygon.git"
+  },
+  "author": "Daniel Holz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dgholz/rough-polygon/issues"
+  },
+  "homepage": "https://github.com/dgholz/rough-polygon#readme"
+}
