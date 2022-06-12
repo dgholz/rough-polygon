@@ -4,7 +4,7 @@
   "description": "Generate polygons that roughly follow other polygons",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "ava"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/dgholz/rough-polygon/issues"
   },
-  "homepage": "https://github.com/dgholz/rough-polygon#readme"
+  "homepage": "https://github.com/dgholz/rough-polygon#readme",
+  "devDependencies": {
+    "ava": "^4.3.0"
+  }
 }
