@@ -6,6 +6,7 @@
   "scripts": {
     "test": "ava"
   },
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dgholz/rough-polygon.git"
@@ -18,5 +19,8 @@
   "homepage": "https://github.com/dgholz/rough-polygon#readme",
   "devDependencies": {
     "ava": "^4.3.0"
+  },
+  "ava": {
+    "files": [ "tests/**" ]
   }
 }
